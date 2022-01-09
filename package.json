@@ -1,0 +1,8 @@
+{
+  "name": "javascript-tricks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tom Nagle",
+  "license": "MIT",
+  "type": "module"
+}
